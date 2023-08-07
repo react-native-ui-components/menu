@@ -2130,6 +2130,11 @@
   resolved "https://registry.yarnpkg.com/@react-native-ui-components/prettier-config/-/prettier-config-1.0.0.tgz#dec9b1865670a27c6ebfaf77ae29c8125ddfaddf"
   integrity sha512-jLFSO3XmTvOay3SFx63jPtk3mjrxYG9ZAZjUMta1qdqzxlA5i3A64c9tsVWgMYrrnDpNk/2ekxzqV0pX1Bd2TQ==
 
+"@react-native-ui-components/typescript-config@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@react-native-ui-components/typescript-config/-/typescript-config-1.0.0.tgz#c23f596b413c2c23d2d15c770582f5b937e8a191"
+  integrity sha512-FG1ZnhmE/HSc3lNHN0JVO3muKwIKkbKRykC0czY91JiWaXJ1vfJZWfcFZh5zPhO7ibmgCC1qR+QdaCC8Oi0gqQ==
+
 "@react-native/assets-registry@^0.72.0":
   version "0.72.0"
   resolved "https://registry.yarnpkg.com/@react-native/assets-registry/-/assets-registry-0.72.0.tgz#c82a76a1d86ec0c3907be76f7faf97a32bbed05d"
