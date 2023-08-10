@@ -60,7 +60,7 @@
 		"@react-native-ui-components/eslint-config": "^1.0.4",
 		"@react-native-ui-components/prettier-config": "^1.0.0",
 		"@react-native-ui-components/typescript-config": "^1.0.0",
-		"@release-it/conventional-changelog": "^5.0.0",
+		"@release-it/conventional-changelog": "^6.0.0",
 		"@types/jest": "^28.1.2",
 		"@types/react": "~17.0.21",
 		"@types/react-native": "0.70.0",
