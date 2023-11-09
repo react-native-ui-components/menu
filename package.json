@@ -65,7 +65,7 @@
 		"@types/react": "~17.0.21",
 		"@types/react-native": "0.70.0",
 		"commitlint": "^18.2.0",
-		"del-cli": "^5.0.0",
+		"del-cli": "^5.1.0",
 		"eslint": "^8.4.1",
 		"jest": "^28.1.1",
 		"pod-install": "^0.1.0",
