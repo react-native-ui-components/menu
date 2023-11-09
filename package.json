@@ -57,7 +57,7 @@
 	"devDependencies": {
 		"@commitlint/config-conventional": "^17.0.2",
 		"@evilmartians/lefthook": "^1.2.2",
-		"@react-native-ui-components/eslint-config": "^1.0.4",
+		"@react-native-ui-components/eslint-config": "^1.0.5",
 		"@react-native-ui-components/prettier-config": "^1.0.0",
 		"@react-native-ui-components/typescript-config": "^1.0.0",
 		"@release-it/conventional-changelog": "^5.0.0",

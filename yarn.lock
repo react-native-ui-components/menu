@@ -2164,10 +2164,10 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/eslint-plugin/-/eslint-plugin-1.3.0.tgz#9e558170c106bbafaa1ef502bd8e6d4651012bf9"
   integrity sha512-+zDZ20NUnSWghj7Ku5aFphMzuM9JulqCW+aPXT6IfIXFbb8tzYTTOSeRFOtuekJ99ibW2fUCSsjuKNlwDIbHFg==
 
-"@react-native-ui-components/eslint-config@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@react-native-ui-components/eslint-config/-/eslint-config-1.0.4.tgz#f16670a40ed2d1c57f17b93fe2f854c6b6c2985f"
-  integrity sha512-MX3vTW8BjQi//5sjG86rikINiphkATO7vdxSFLKS7iUcBiqBEAyzfI4rhNOU7CNNSb7qr7zxTyV2N9qiB9v8OA==
+"@react-native-ui-components/eslint-config@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@react-native-ui-components/eslint-config/-/eslint-config-1.0.5.tgz#b26ceefe4b9dbc36b6abe56a56423f6b0f8a43cb"
+  integrity sha512-GmczVLDp1Ly8SreAAFv9Fx/r9vfXFKkBMVHvU0EsMqrk+XP3dKEBW9EZL89aAOt1QqdxkUmWttEexGxYrqKnvw==
   dependencies:
     "@react-native-community/eslint-config" "^3.2.0"
 
